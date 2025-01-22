@@ -11,7 +11,7 @@ switch (userInput) {
         console.log('-w-');
         break;
     case 3:
-        console.log('-WX');
+        console.log('-wx');
         break;
     case 4:
         console.log('r--');
@@ -20,10 +20,10 @@ switch (userInput) {
         console.log('r-x');
         break;
     case 6:
-        console.log('RW-');
+        console.log('rw-');
         break;
     case 7:
-        console.log('RWX');
+        console.log('rwx');
         break;
     default:
         console.log('Incorrect value!');
