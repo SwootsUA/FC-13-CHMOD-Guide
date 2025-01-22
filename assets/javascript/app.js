@@ -1,4 +1,4 @@
-let userInput = prompt("Enter number (0-7)");
+let userInput = prompt('Enter number (0-7)');
 
 switch (userInput) {
     case '0':
